@@ -1,9 +1,9 @@
 # Hackintosh-ROG-GL553-VE-
-Hackintosh config for laptop ROG GL553VE
-OS: macOS Mojave 10.14.6 and macOS Catalina 10.15.4 
-Update: 22/06/2020
-Config +++
-# Hardware:
++ Hackintosh config for laptop ROG GL553VE
++ OS: macOS Mojave 10.14.6 and macOS Catalina 10.15.4 
++ Update: 22/06/2020
+# Config +++
++ Hardware:
 + Processor: Intel® Core™ i7 7700HQ Processor.                                                       [OK]
 + Chipset: Intel® HM175 Express Chipset.                                                             [OK]
 + Memory: up to 32 GB SDRAM                                                                          [OK]
